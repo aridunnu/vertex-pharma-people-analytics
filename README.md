@@ -2,7 +2,7 @@
 
 **Simulated Big 4 consulting engagement | People & Organisation Practice**
 
-A end-to-end people analytics project built around a fictional pharmaceutical client, Vertex Pharma UK Limited, commissioned to investigate rising voluntary attrition and deliver data-led retention recommendations to the Board People Committee.
+An end-to-end people analytics project built around a fictional pharmaceutical client, Vertex Pharma UK Limited, commissioned to investigate rising voluntary attrition and deliver data-led retention recommendations to the Board People Committee.
 
 The project spans the full analytics pipeline: SQL Server data modelling, Python-based exploratory analysis and predictive modelling, and a four-page Power BI dashboard, supported by two formal consulting documents.
 
@@ -212,11 +212,11 @@ Operational table for HR use, filterable by department, job role, and risk band.
 
 ## Author
 
-**Kehinde Aridunnu**
+**Kehinde Fakeye**
 MSc Data Science, University of Salford
-Former BI Analyst | People Analytics | NHS and Public Sector Data
+BI Analyst | People Analytics
 
-[GitHub](https://github.com/aridunnu) | [LinkedIn](https://www.linkedin.com/in/)
+[GitHub](https://github.com/aridunnu) | [LinkedIn](https://www.linkedin.com/in/kehindefakeye)
 
 ---
 
